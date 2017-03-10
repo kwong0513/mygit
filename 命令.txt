@@ -1,0 +1,27 @@
+µÇÂ¼£º
+git config --global user.name "kwong"
+
+git config --global user.email "893714583@qq.com"
+
+
+Éú³ÉÃØÔ¿
+
+$ ssh-keygen -t rsa -C "893714583@qq.com"
+
+
+git add github2.docx
+
+git commit -m "content"
+
+
+$ git remote add origin git@github.com:kwong0513/mygit.git
+
+
+
+git push origin master
+
+
+
+
+
+
